@@ -1,2 +1,3 @@
 # Challenge_1_Team_Soul_Motown-main
 
+The Apple Developer Academy's Challenge 1 was a three-week "mini challenge" that advanced a series of learning objectives, including Logic and Programing; Collaboration; and Visual Design Fundamentals. The end goal of this team initiative was to tell a story about Detroit with an Xcode Playground. My "Team Soul" teammates worked together to develop a multi-faceted storyline exploring Detroit's musical influences; each of us coded sections of the story. The attached entry depicts three major influences on Motown music, and demonstrates my first experience with SwiftUI coding.
